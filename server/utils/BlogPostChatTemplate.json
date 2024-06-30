@@ -1,0 +1,13 @@
+{
+    "model": "gpt-3.5-turbo",
+    "messages": [
+        {
+            "role": "system",
+            "content": "You are a helpful assistant."
+        },
+        {
+            "role": "user",
+            "content": "Create a blog post about {blogPostTopic}. Write it in a professional tone. Use transition words. Use active voice. Write over 1000 words."
+        }
+    ]
+}
