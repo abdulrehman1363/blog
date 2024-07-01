@@ -28,7 +28,7 @@ Add .env file in the root of server folder and these keys in that file
    MONGO_URI=mongodb://127.0.0.1:27017/blogposts
    JWT_SECRET_KEY=blogposts
    PORT=5000
-   OPEN_AI_KEY=sk-proj-B4daJOErMo698sqcZdAhT3BlbkFJMkHAfBzNuq2dHdI8Vk6m
+   OPEN_AI_KEY=
 
 ### Front-end 
 
